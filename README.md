@@ -96,7 +96,7 @@ Os casos de teste estão embutidos no código.
 
 ## Vídeo de Defesa
 
-> 🎥 **Link do vídeo:** *(inserir link do YouTube aqui)*
+> 🎥 **Link do vídeo:** https://youtu.be/BBuJK25FlQA
 
 ---
 
