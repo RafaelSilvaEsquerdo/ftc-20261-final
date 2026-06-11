@@ -1,0 +1,44 @@
+## .gitignore padrão para projetos C#/.NET
+
+# Pastas de build
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.vspscc
+*.vssscc
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Resultados de teste
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Logs
+*.log
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Publicação
+[Pp]ublish/

@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "▶ Parte 1 — AFD",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-parte1",
+      "program": "${workspaceFolder}/Parte1/bin/Debug/net8.0/Parte1.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Parte1",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": "▶ Parte 2 — Autômato de Pilha",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-parte2",
+      "program": "${workspaceFolder}/Parte2/bin/Debug/net8.0/Parte2.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Parte2",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": "▶ Parte 3 — Máquina de Turing",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-parte3",
+      "program": "${workspaceFolder}/Parte3/bin/Debug/net8.0/Parte3.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Parte3",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}
