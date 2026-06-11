@@ -10,8 +10,8 @@
 
 | Nome Completo | Matrícula |
 |---|---|
-| *(preencha aqui)* | *(preencha aqui)* |
-| *(preencha aqui)* | *(preencha aqui)* |
+| *Rafael Silva Esquerdo* | *72301295* |
+| *Marcus Rizzon Melo* | *72500255* |
 
 ---
 
